@@ -1,5 +1,3 @@
 https://my-burger-builder.surge.sh/
 
-this project is for the course I learned React from.
-
-React - The Complete Guide (incl Hooks, React Router, Redux) from Maximilian Schwarzmüller
+This repository contains a project created as part of the "React - The Complete Guide" course taught by Maximilian Schwarzmüller. The project utilizes various concepts covered in the course such as React hooks, React Router, and Redux.
